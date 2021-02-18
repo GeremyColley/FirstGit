@@ -1,0 +1,1 @@
+java -classpath %CLASSPATH% colley.geremy.HelloXML .\conf\data.xml 

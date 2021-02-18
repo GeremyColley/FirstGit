@@ -1,0 +1,6 @@
+
+C:\Users\David Hume\Desktop\java\test>SET CLASSPATH=.\lib\xercesImpl.jar 
+
+C:\Users\David Hume\Desktop\java\test>SET CLASSPATH=.\lib\xercesImpl.jar;.\lib\xml-apis.jar 
+
+C:\Users\David Hume\Desktop\java\test>SET CLASSPATH=.\lib\xercesImpl.jar;.\lib\xml-apis.jar;.\classes 

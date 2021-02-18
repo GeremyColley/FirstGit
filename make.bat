@@ -1,0 +1,1 @@
+javac -classpath %CLASSPATH% -d .\classes src\colley\geremy\*.java 
